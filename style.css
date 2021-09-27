@@ -1,0 +1,84 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    /* max-height: 950px; */
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(110deg, rgb(70, 156, 156) 60%, rgb(3, 138, 138) 60%);
+    margin: 21px;
+}
+
+.main-cont{
+    margin-top: 30px;
+}
+
+.upper-border{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.bottom-border{
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.container-1{
+    padding: 30px;
+    background-color: white;
+}
+
+h2{
+    color: teal;
+}
+
+h3{
+    color: yellowgreen;
+}
+
+.info{
+    color: thistle;
+}
+
+.tealdark{
+    background-color: teal;
+    color: white;
+    padding: 20px;
+    /* border-bottom-left-radius: 10px; */
+}
+
+.bigspan, .numb{
+    font-size: 40px;
+}
+
+.leftpad{
+    padding-left: 10px;
+}
+
+.thirdline{
+    font-size: 15px;
+    padding-bottom: 30px;
+}
+
+.btn-design{
+    display: flex;
+    margin: auto;
+    background-color: yellowgreen;
+    color: white;
+    border: transparent;
+    border-radius: 5px;
+    padding: 12px 80px;
+}
+
+.teallight{
+    background-color: rgb(95, 173, 173);
+    color: white;
+    padding: 20px;
+    /* border-bottom-right-radius: 10px; */
+}
+
+.heading{
+    padding-bottom: 20px;
+}
+
+p{
+    line-height: 8px;
+}
